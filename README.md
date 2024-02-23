@@ -1,17 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I am Ronit
+I am a Prodigy in Data and Design
 
-<div align="center">
-<img src="https://www.figma.com/file/FoAoKDLYHGGBpJNwxme05e/Untitled?type=design&node-id=10-34&mode=design&t=oEyOvijJuqD63E7H-4" align="center" style="width: 100%" />
-</div>  
-  
+Skills: Python / Power BI / Excel / Figma / Adobe XD / VS Code 
 
-### <div align="center">I'm Ronit🚀</div>  
-  
+- 🔭 I’m currently working on My New UX Project 
+- 🌱 I’m currently learning AI & ML 
+- 👯 I’m looking to collaborate on Anything related to Data & Design 
+- 📫 How to reach me: royronit2004@gmail.com 
+- ⚡ Fun fact: I have Two Portfolios 
 
-- 🔭 I’m currently working on My New UX Project  
-  
 
-- 🌱 I’m currently learning AI & ML  
-  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/royronit2004)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/ronit-roy-96aa56282/)  
 
-- ⚡ Fun fact: I have Two Portfolios  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royronit2004)](https://github.com/anuraghazra/github-readme-stats)
+
