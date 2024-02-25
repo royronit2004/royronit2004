@@ -9,8 +9,8 @@ Skills: Python / Power BI / Excel / Figma / Adobe XD / VS Code
 - 📫 How to reach me: royronit2004@gmail.com 
 - ⚡ Fun fact: I have Two Portfolios
   
-## - 👨‍💻 My UX Portfolio [https://royronit2004.wixsite.com/my-ux-portfolio](https://royronit2004.wixsite.com/my-ux-portfolio)##
-## - 👨‍💻 My Data Analyst Portfolio [https://royronit2004.wixsite.com/royronit-ds-site](https://royronit2004.wixsite.com/royronit-ds-site)
+### - 👨‍💻 My UX Portfolio [https://royronit2004.wixsite.com/my-ux-portfolio](https://royronit2004.wixsite.com/my-ux-portfolio)
+### - 👨‍💻 My Data Analyst Portfolio [https://royronit2004.wixsite.com/royronit-ds-site](https://royronit2004.wixsite.com/royronit-ds-site)
 
 
 ## 🌐 Socials:
