@@ -13,6 +13,7 @@ Skills: Python / Power BI / Excel / Figma / Adobe XD / VS Code
 ### - 👨‍💻 My Data Analyst Portfolio [https://royronit2004.wixsite.com/royronit-ds-site](https://royronit2004.wixsite.com/royronit-ds-site)
 
 
+
 ## 🌐 Socials:
 <div align="left">
 <a href="https://github.com/royronit2004" target="_blank">
