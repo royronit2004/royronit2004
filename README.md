@@ -1,5 +1,5 @@
 # Hi there 👋, I am Ronit
-### Data | Design | Development
+
 (https://pbs.twimg.com/profile_banners/1272873503423778817/1710494019/1080x360)
 
 Skills: Python / Power BI / Excel / Figma / Adobe XD / VS Code 
