@@ -1,5 +1,5 @@
 # Hi there 👋, I am Ronit
-### I am a prodigy in Data and Design
+### Data | Design | Development
 
 Skills: Python / Power BI / Excel / Figma / Adobe XD / VS Code 
 
