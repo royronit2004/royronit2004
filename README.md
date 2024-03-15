@@ -1,3 +1,17 @@
+### Hi there 👋, my name is Ronit
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1272873503423778817/1710494019/1080x360)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 # Hi there 👋, I am Ronit
 
 (https://pbs.twimg.com/profile_banners/1272873503423778817/1710494019/1080x360)
