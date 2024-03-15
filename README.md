@@ -1,5 +1,6 @@
 # Hi there 👋, I am Ronit
 ### Data | Design | Development
+(https://github.com/royronit2004/royronit2004/blob/main/Profile%20Banner.png)
 
 Skills: Python / Power BI / Excel / Figma / Adobe XD / VS Code 
 
